@@ -1,26 +1,19 @@
 #!/bin/bash
-# SayHello v1.0
-# coded by: github.com/thelinuxchoice/sayhello
-# Twitter: @linux_choice
-# Using Recorderjs by: https://github.com/mattdiamond/Recorderjs
+# hackvoice v 1.0
+# coded by: github.com/HACKGM/hackvoice
+# Telegram: T.ME/HACKGM
 trap 'printf "\n";stop' 2
 
 banner() {
 
  
-printf "\e[1;92m                                          __ \e[0m\n"
-printf "\e[1;93m  ____              _   _      _ _ \e[0m\e[1;92m      /__\  \e[0m\n"
-printf "\e[1;93m / ___|  __ _ _   _| | | | ___| | | ___ \e[0m\e[1;92m \__/  \e[0m\n"
-printf "\e[1;93m \___ \ / _\` | | | | |_| |/ _ \ | |/ _ \ \e[0m\e[1;92m || \e[0m\n"
-printf "\e[1;93m  ___) | (_| | |_| |  _  |  __/ | | (_) | \e[0m\e[1;92m|| \e[0m\n"
-printf "\e[1;93m |____/ \__,_|\__, |_| |_|\___|_|_|\___/  \e[0m\e[1;92m|| \e[0m\n"
-printf "\e[1;93m              |___/                        \e[0m\e[1;92m\__ \e[0m\n"
-printf "\e[1;92m                                              \ \e[0m\n"
+printf "\e[1;92m     𝙃𝙖𝙘𝙠 𝙢𝙞𝙘𝙧𝙤𝙥𝙝𝙤𝙣𝙚 𝙗𝙮 𝙨𝙚𝙣𝙙𝙞𝙣𝙜 𝙡𝙞𝙣𝙠🎤     \e[0m\n"
+printf "\e[1;92m                   \ \e[0m\n"
 
 
-printf "\e[1;77m v1.0 coded by github.com/thelinuxchoice/sayhello\e[0m \n"
+printf "\e[1;77m v1.0 coded by github.com/HACKGM/hackvoice\e[0m \n"
 
-printf " Twitter: @linux_choice\n"
+printf " Telegram: T.ME/HACKGM\n"
 
 
 }
