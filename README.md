@@ -2,6 +2,7 @@
 هک میکروفون گوشی با ارسال لینک - Hack microphone by sending link            
 
 کد های اجرا:
+<pre><code>
 <br>
 apt update
 <br>
@@ -14,7 +15,10 @@ git  clone https://github.com/HACKGM/hackvoice
 cd hackvoice  
 <br>
 bash voice.sh  
-<br>
+<br><code><pre>
 
-کانال ما در تلگرام: 
-Http://t.me/hackgm
+
+
+ <link>
+t.me/hackgm
+<link>
