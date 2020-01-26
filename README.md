@@ -1,7 +1,7 @@
 # hackvoice
 هک میکروفون گوشی با ارسال لینک - Hack microphone by sending link            
 <a href="https://t.me/hackgm"><h2>T.ME/HACKGM<h2></a>
-کد های اجرا:
+کد های اجرا در ترموکس :
 <pre><code>
 <br>
 apt update
